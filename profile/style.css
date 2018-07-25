@@ -1,0 +1,66 @@
+#profile_picture {
+  width: 250px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1, .description, p, h2 {
+  text-align: center;
+  color: black;
+  font-family: serif;
+  font-size: 15;
+  line-height: 1;
+  padding-bottom: 12px;
+}
+
+img {
+  width: 200px;
+  padding-left: 25px;
+}
+
+body {
+  background-color: #d1d3d6;
+  font-family: serif;
+  color: black;
+  font-size: 16;
+  line-height: 2;
+}
+
+.links:first-child {
+  color: blue;
+  text-decoration-color: black;
+  text-align: center;
+  display: block;
+}
+
+.center-align {
+  text-align: center;
+}
+
+a:hover {
+  background-color: orange;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.card {
+  width: 500px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+h3, h4 {
+  text-align: center;
+}
+
+.hobbies {
+  padding-top: 25px;
+}
